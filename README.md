@@ -1,6 +1,6 @@
 # Proyecto de Aprende y Mejora Unidad 4 
 
-Descripción
+Descripción:
 El proyecto busca facilitar que nos familiarizemos con Git y GitHub. Se enfoca en prácticas esenciales como la creación de repositorios, el uso de ramas, la realización de commits, la fusión de ramas y la colaboración con mas usuarios. El objetivo principal es proporcionar una experiencia práctica para que podmos aprender de estas herramientas fundamentales en el desarrollo de software.
 
 Cómo clonar el proyecto:
