@@ -32,6 +32,6 @@ Cómo ejecutar el proyecto
 
 En este proyecto no se requiere ninguna configuración en especial para ejecutarse. Simplemente se abre el archivo archivo.txt para ver el contenido.
 
-Autores
+Autor
  - Mateo Martinez Brand
 
